@@ -1,0 +1,7 @@
+D:\Work\Codility\AppliedSystems\AppliedSystems\bin\Debug\AppliedSystems.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems\bin\Debug\AppliedSystems.pdb
+D:\Work\Codility\AppliedSystems\AppliedSystems\obj\Debug\AppliedSystems.csprojResolveAssemblyReference.cache
+D:\Work\Codility\AppliedSystems\AppliedSystems\obj\Debug\AppliedSystems.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems\obj\Debug\AppliedSystems.pdb
+D:\Work\Codility\AppliedSystems\AppliedSystems\bin\Debug\Annotations.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems\bin\Debug\Annotations.pdb

@@ -1,0 +1,5 @@
+D:\Work\Codility\AppliedSystems\Annotations\bin\Debug\Annotations.dll
+D:\Work\Codility\AppliedSystems\Annotations\bin\Debug\Annotations.pdb
+D:\Work\Codility\AppliedSystems\Annotations\obj\Debug\Annotations.csprojResolveAssemblyReference.cache
+D:\Work\Codility\AppliedSystems\Annotations\obj\Debug\Annotations.dll
+D:\Work\Codility\AppliedSystems\Annotations\obj\Debug\Annotations.pdb

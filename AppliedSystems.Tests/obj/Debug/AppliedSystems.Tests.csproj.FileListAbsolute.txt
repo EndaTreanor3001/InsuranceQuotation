@@ -1,0 +1,16 @@
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\AppliedSystems.Tests.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\AppliedSystems.Tests.pdb
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\obj\Debug\AppliedSystems.Tests.csprojResolveAssemblyReference.cache
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\obj\Debug\AppliedSystems.Tests.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\obj\Debug\AppliedSystems.Tests.pdb
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\AppliedSystems.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Annotations.dll
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\AppliedSystems.pdb
+D:\Work\Codility\AppliedSystems\AppliedSystems.Tests\bin\Debug\Annotations.pdb
